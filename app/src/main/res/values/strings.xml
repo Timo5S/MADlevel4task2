@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MADlevel4Task2</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="picked">Picked</string>
+    <string name="computerpicked">ComputerPicked</string>
+    <string name="welcome">Welcome</string>
+    <string name="select_rock_paper_or_scissors_to_play">Instructions: select rock, paper or scissors to play</string>
+    <string name="v_s">V.S.</string>
+    <string name="your_all_time_statistics">Your all time statistics</string>
+    <string name="player">Player</string>
+    <string name="computer">Computer</string>
+    <string name="show_game_history">Show Game History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="Draw">Draw</string>
+    <string name="Loser">Loser!</string>
+    <string name="Winner">Winner!</string>
+    <string name="stat_show">Wins: %1$d, Loses: %2$d, Draws: %3$d</string>
+    //"Wins: $gameWins, Loses: $gameLoses, Draws: $gameDraws"
+</resources>
